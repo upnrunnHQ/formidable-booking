@@ -1,0 +1,63 @@
+.ceva-track {
+	#ceva-track {
+		position: relative;
+		display: flex;
+		flex-wrap: wrap;
+		align-items: stretch;
+		width: 100%;
+
+		input[type="number"] {
+			position: relative;
+			flex: 1 1 auto;
+			width: 1%;
+			min-width: 0;
+		}
+	}
+
+	#tracking-results {
+		margin-top: 16px;
+	}
+
+	.booking-details,
+	.vehicle {
+		margin-left: 0;
+		padding: 32px;
+		font-size: 16px;
+		background-color: #ecf0f1;
+	}
+
+	.booking-details,
+	.vehicle {
+		ul {
+			list-style-type: none;
+			margin-bottom: 0;
+			padding-left: 0;
+			overflow: hidden;
+
+			li {
+				margin-right: 16px;
+				margin-bottom: 32px;
+				width: 31%;
+				float: left;
+			}
+
+			.key,
+			.value {
+				display: block;
+			}
+
+			.key {
+				font-size: 14px;
+			}
+
+			.value {
+				font-size: 18px;
+			}
+		}
+	}
+
+	.booking-details {
+		margin-bottom: 32px;
+		padding-bottom: 0;
+	}
+}

@@ -1,0 +1,41 @@
+.booking-preview {
+	margin-bottom: 1rem;
+
+	&__item {
+		margin-bottom: .15rem;
+		padding: 1em 1.618em;
+        border-radius: 4px;
+		background-color: #f8f8f8;
+	}
+
+    h4 {
+        margin-bottom: 1rem;
+    }
+
+	ul {
+		padding-left: 0;
+		list-style: none;
+        overflow: hidden;
+
+		li {
+			padding-top: 0.5rem;
+			padding-bottom: 0.5rem;
+            width: 33.33%;
+            float: left;
+
+			.label {
+				display: block;
+                padding: 0;
+				text-transform: uppercase;
+                text-align: left;
+				font-size: 0.8em;
+                color: #000000;
+			}
+
+			.value {
+				font-size: 1.41575em;
+				font-weight: bold;
+			}
+		}
+	}
+}

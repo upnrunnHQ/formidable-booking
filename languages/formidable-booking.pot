@@ -1,0 +1,240 @@
+# Copyright (C) 2022 upnrunn™ technologies
+# This file is distributed under the same license as the CEVA Booking for Formidable Forms package.
+msgid ""
+msgstr ""
+"Project-Id-Version: CEVA Booking for Formidable Forms 0.1.0\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/formidable-booking\n"
+"POT-Creation-Date: 2022-04-25 12:23:43+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: includes/class-formidable-booking-custom-fields.php:60
+msgid "Booking Preview"
+msgstr ""
+
+#: includes/class-formidable-booking-custom-fields.php:121
+#: includes/class-formidable-booking.php:253
+msgid "Pickup Address"
+msgstr ""
+
+#: includes/class-formidable-booking-custom-fields.php:123
+#: includes/class-formidable-booking-custom-fields.php:131
+#: includes/class-formidable-booking.php:255
+#: includes/class-formidable-booking.php:263
+msgid "Suburb"
+msgstr ""
+
+#: includes/class-formidable-booking-custom-fields.php:124
+#: includes/class-formidable-booking-custom-fields.php:132
+#: includes/class-formidable-booking.php:256
+#: includes/class-formidable-booking.php:264
+msgid "State"
+msgstr ""
+
+#: includes/class-formidable-booking-custom-fields.php:125
+#: includes/class-formidable-booking-custom-fields.php:133
+#: includes/class-formidable-booking.php:257
+#: includes/class-formidable-booking.php:265
+msgid "PostCode"
+msgstr ""
+
+#: includes/class-formidable-booking-custom-fields.php:129
+#: includes/class-formidable-booking.php:261
+msgid "Delivery Address"
+msgstr ""
+
+#: includes/class-formidable-booking-custom-fields.php:137
+#: includes/class-formidable-booking.php:269 includes/template-functions.php:63
+msgid "Vehicle"
+msgstr ""
+
+#: includes/class-formidable-booking-custom-fields.php:139
+#: includes/class-formidable-booking.php:271
+msgid "VehicleValue"
+msgstr ""
+
+#: includes/class-formidable-booking-custom-fields.php:140
+#: includes/class-formidable-booking.php:272 includes/template-functions.php:22
+msgid "Make"
+msgstr ""
+
+#: includes/class-formidable-booking-custom-fields.php:141
+#: includes/class-formidable-booking.php:273 includes/template-functions.php:23
+msgid "Model"
+msgstr ""
+
+#: includes/class-formidable-booking-custom-fields.php:142
+#: includes/class-formidable-booking.php:274
+msgid "BodyType"
+msgstr ""
+
+#: includes/class-formidable-booking-custom-fields.php:146
+#: includes/class-formidable-booking.php:278
+msgid "Rates"
+msgstr ""
+
+#: includes/class-formidable-booking-custom-fields.php:148
+#: includes/class-formidable-booking.php:280
+msgid "TransitDays"
+msgstr ""
+
+#: includes/class-formidable-booking-custom-fields.php:149
+#: includes/class-formidable-booking.php:281
+msgid "TotalRateIncludingGst"
+msgstr ""
+
+#: includes/class-formidable-booking-settings.php:32
+#: includes/class-formidable-booking-settings.php:33
+msgid "CEVA Booking"
+msgstr ""
+
+#: includes/class-formidable-booking-settings.php:71
+msgid "Spreadsheet"
+msgstr ""
+
+#: includes/class-formidable-booking-settings.php:78
+msgid "Spreadsheet File"
+msgstr ""
+
+#: includes/class-formidable-booking-settings.php:128
+msgid "Sorry, only xlsx file is allowed."
+msgstr ""
+
+#: includes/class-formidable-booking-settings.php:147
+msgid "Please upload the database spreadsheet, it will overwrite the pevious one."
+msgstr ""
+
+#: includes/class-formidable-booking.php:246
+msgid "Booking Information"
+msgstr ""
+
+#: includes/class-formidable-booking.php:248
+msgid "ID"
+msgstr ""
+
+#: includes/class-formidable-booking.php:249
+msgid "Email"
+msgstr ""
+
+#: includes/template-functions.php:9
+msgid "Booking Number"
+msgstr ""
+
+#: includes/template-functions.php:10
+msgid "Booking Date"
+msgstr ""
+
+#: includes/template-functions.php:11
+msgid "Pickup Suburb"
+msgstr ""
+
+#: includes/template-functions.php:12
+msgid "Pickup State"
+msgstr ""
+
+#: includes/template-functions.php:13
+msgid "Delivery Suburb"
+msgstr ""
+
+#: includes/template-functions.php:14
+msgid "Delivery State"
+msgstr ""
+
+#: includes/template-functions.php:15
+msgid "Pickup Time"
+msgstr ""
+
+#: includes/template-functions.php:16
+msgid "Delivery Time"
+msgstr ""
+
+#: includes/template-functions.php:20
+msgid "Booking Vehicle Number"
+msgstr ""
+
+#: includes/template-functions.php:21
+msgid "Vehicle Id"
+msgstr ""
+
+#: includes/template-functions.php:27
+msgid "From"
+msgstr ""
+
+#: includes/template-functions.php:28
+msgid "To"
+msgstr ""
+
+#: includes/template-functions.php:29
+msgid "Departure Date"
+msgstr ""
+
+#: includes/template-functions.php:30
+msgid "Arrival Date"
+msgstr ""
+
+#: includes/template-functions.php:31
+msgid "Status"
+msgstr ""
+
+#: includes/template-functions.php:32
+msgid "Mode"
+msgstr ""
+
+#: includes/template-functions.php:36
+msgid "No tracking information found."
+msgstr ""
+
+#: includes/template-functions.php:44
+msgid "Tracking Details"
+msgstr ""
+
+#: includes/template-functions.php:46
+msgid "Booking"
+msgstr ""
+
+#: includes/template-functions.php:59
+msgid "Vehicles"
+msgstr ""
+
+#: includes/template-functions.php:75
+msgid "Movements"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "CEVA Booking for Formidable Forms"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://upnrunn.com/plugins/formidable-booking"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Enable booking for Formidable Forms using vehicle transport booking service "
+"provided by CEVA Logistics for interstate vehicle transport."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "upnrunn™ technologies"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://upnrunn.com/"
+msgstr ""

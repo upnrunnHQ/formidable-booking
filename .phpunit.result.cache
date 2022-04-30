@@ -1,0 +1,1 @@
+C:30:"PHPUnit\Runner\TestResultCache":332:{a:2:{s:7:"defects";a:3:{s:39:"SpreadsheetTest::test_parse_spreadsheet";i:4;s:25:"ApiTest::test_fetch_makes";i:4;s:38:"ApiTest::test_filter_spreadsheet_items";i:4;}s:5:"times";a:3:{s:39:"SpreadsheetTest::test_parse_spreadsheet";d:4.264;s:25:"ApiTest::test_fetch_makes";d:0.007;s:38:"ApiTest::test_filter_spreadsheet_items";d:4.059;}}}
